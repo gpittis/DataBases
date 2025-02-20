@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+**Origin of this repo:** [Tsarnadelis](https://github.com/tsarnadelis/Database-Project/tree/curbsprings-frontend)
+
 ## Available Scripts
 
 In the project directory, you can run:
